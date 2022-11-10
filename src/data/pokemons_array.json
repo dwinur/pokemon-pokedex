@@ -1,0 +1,130 @@
+[{
+  "id": 1,
+  "name": "Butterfree",
+  "about": "A strange seed was planted on its back at birth. The plant sprouts\nand grows with this Pokémon.",
+  "types": ["grass","poison"],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+  "weight": {
+    "kg": "60.0",
+    "lbs": "132.3"
+  },
+  "height": {
+    "m": "7",
+    "ft": "3'3"
+  },
+  "base_stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 90
+  },
+  "abilities": ["storm","fire"],
+  "evolutions": [{
+    "nom":"pikachu",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },{
+    "nom":"raichu",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+  },{
+    "nom":"bulbasaur",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  }]
+},
+{
+  "id": 25,
+  "name": "Bellsprout",
+  "about": "A strange seed was\nplanted on its\nback at birth.\fThe plant sprouts\nand grows with\nthis Pokémon.",
+  "types": ["electric"],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+  "weight": {
+    "kg": "60",
+    "lbs": "60"
+  },
+  "height": {
+    "m": "60",
+    "ft": "4"
+  },
+  "base_stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 90
+  },
+  "abilities": ["katon","doton","raiton"],
+  "evolutions": [{
+    "nom":"pikachu",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+  },{
+    "nom":"raichu",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+  }]
+},
+{
+  "id": 34,
+  "name": "Tentacool",
+  "about": "A strange seed was\nplanted on its\nback at birth.\fThe plant sprouts\nand grows with\nthis Pokémon.",
+  "types": ["poison"],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+  "weight": {
+    "kg": "60.0",
+    "lbs": "132.3"
+  },
+  "height": {
+    "m": "7",
+    "ft": "3'3\""
+  },
+  "base_stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 90
+  },
+  "abilities": ["suiton","mokuton"],
+  "evolutions": [{
+    "nom":"bulbasaur",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+  },{
+    "nom":"ivysaur",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+  }]
+},{
+  "id": 140,
+  "name": "kabuto",
+  "about": "A strange seed was\nplanted on its\nback at birth.\fThe plant sprouts\nand grows with\nthis Pokémon.",
+  "types": ["rock","water"],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+  "weight": {
+    "kg": "19.5",
+    "lbs": "43.0"
+  },
+  "height": {
+    "m": "0.8",
+    "ft": "2'7\""
+  },
+  "base_stats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "specialAttack": 50,
+    "specialDefense": 50,
+    "speed": 90
+  },
+  "abilities": ["Guts","No-Guard","Steadfast"],
+  "evolutions": [{
+    "nom":"Tentacool",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },{
+    "nom":"Bellsprout",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+  },{
+    "nom":"bulbasaur",
+    "picture":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  }]
+}
+]

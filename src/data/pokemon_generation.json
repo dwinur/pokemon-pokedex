@@ -1,0 +1,10 @@
+[
+  { "id": 0, "name": "1", "alias": "generation i" },
+  { "id": 1, "name": "2", "alias": "generation ii" },
+  { "id": 2, "name": "3", "alias": "generation iii" },
+  { "id": 3, "name": "4", "alias": "generation iv" },
+  { "id": 4, "name": "5", "alias": "generation v" },
+  { "id": 5, "name": "6", "alias": "generation vi" },
+  { "id": 6, "name": "7", "alias": "generation vii" },
+  { "id": 7, "name": "8", "alias": "generation viii" }
+]

@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Notes
+I am facing an issue for filtering by generation, so i replaced it with filter by region
